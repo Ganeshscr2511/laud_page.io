@@ -1,0 +1,48 @@
+                                        /* header styles */
+header{
+    background-color: #ffddcc ;
+    color: #480032;
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+.title-head{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+                                       /* main body styles */
+.main-image{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+ul{
+    text-align: justify;
+    padding-top: 5%;
+    padding-bottom: 5%;
+} 
+.slide{
+    background-color: #ffddcc;
+}
+span{
+    font-family: 'Caveat', cursive;
+    font-size: 1rem;
+}
+
+p{
+    text-align: justify;
+    padding:5% 10% 5% 10%;
+    font-weight: 300;
+}
+
+                                        /* footer styles */
+
+footer{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+
