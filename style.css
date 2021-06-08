@@ -25,6 +25,7 @@ ul{
 } 
 .slide{
     background-color: #ffddcc;
+  height: 200px;
 }
 span{
     font-family: 'Caveat', cursive;
